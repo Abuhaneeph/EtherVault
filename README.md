@@ -53,6 +53,8 @@ Players can unlock higher withdrawal limits by progressing through different rol
 - **Lock Period**: 2 days
 - **Withdrawal Delay**: 1 hour
 - **Magic Word Hash**: `0xe12a28df6f8731c94ade6605c8f457c16b3f591ecc3be3d092af1f56215a3da2`
+- **Contract Owner**: `0xFec692E014Be840f2C94Fa1Bf4219802632bF130`
+- **Deployed Contract**: [View on Lisk Sepolia Blockscout](https://sepolia-blockscout.lisk.com/tx/0xdd404fd1392637778f153b04900b74f401e4014d604419221e9ce0ddcd60f93f)
 
 ## Learning Objectives
 
@@ -68,7 +70,7 @@ By interacting with EtherVault, you'll learn about:
 
 ## Getting Started
 
-1. Deploy the contract to an Ethereum test network
+1. The contract is already deployed on Lisk Sepolia testnet
 2. Send ETH to the contract via deposit
 3. Try to get whitelisted or guess the magic word
 4. Wait for the lock period to end
