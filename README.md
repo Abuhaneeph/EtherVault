@@ -54,7 +54,7 @@ Players can unlock higher withdrawal limits by progressing through different rol
 - **Withdrawal Delay**: 1 hour
 - **Magic Word Hash**: `0xe12a28df6f8731c94ade6605c8f457c16b3f591ecc3be3d092af1f56215a3da2`
 - **Contract Owner**: `0xbf4EE65FE67C291DfC34ffe2455ecA9d97DF9148`
-- **Deployed Contract**: [View on Lisk Sepolia Blockscout](https://sepolia-blockscout.lisk.com/tx/0x6dA826f51c447354f65A7480e5364672785C0417)
+- **Deployed Contract**: [View on Lisk Sepolia Blockscout](https://sepolia-blockscout.lisk.com/address/0x6dA826f51c447354f65A7480e5364672785C0417)
 
 ## Learning Objectives
 
