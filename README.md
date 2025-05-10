@@ -4,7 +4,7 @@ A Solidity learning game that teaches smart contract concepts through interactiv
 
 ## Overview
 
-EtherVault is an educational Ethereum smart contract designed to teach Solidity programming concepts through a gamified experience. Players interact with the contract by sending Ether, solving challenges, and learning about smart contract security in a hands-on way.
+EtherVault is an educational Lisk smart contract designed to teach Solidity programming concepts through a gamified experience. Players interact with the contract by sending Ether, solving challenges, and learning about smart contract security in a hands-on way.
 
 ## How It Works
 
